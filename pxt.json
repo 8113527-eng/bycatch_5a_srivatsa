@@ -1,5 +1,6 @@
 {
     "name": "BYCATCH_5A_SRIVATSA",
+    "version": "0.0.1",
     "description": "",
     "dependencies": {
         "core": "*",
